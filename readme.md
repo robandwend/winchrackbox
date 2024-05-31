@@ -173,8 +173,14 @@ Insert a screw into the rear of the mount as shown below. This screw can be used
 
 <img src="photos/b1.jpg"/>
 
+### Wiring
+
+For reference here's the wiring design for the original Type2 winchrack, the only change is to add a second motor and set of solenoids. I've added a few extra Wago blocks to aid connections.
+
+<img src="photos/WinchRack_Type2_Connection_Diagram.png"/>
 
 ### Wiring the front assembly
+
 
 <video width="320" height="240" controls>
   <source src="vidoes/fa.mov" type="video/mp4">
