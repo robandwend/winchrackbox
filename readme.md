@@ -1,4 +1,6 @@
 # WinchRack-Box V1.1 (WRB)
+<img src="photos/view1.jpg" style="height: 200px;"/>
+<img src="photos/view2.jpg" style="height: 200px;"/>
 
 ## About
 
