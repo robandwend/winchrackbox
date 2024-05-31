@@ -357,7 +357,7 @@ The sensor roller is use to detect filament movement. The filament routes throug
 - Insert the plug-socket into the main body
 - Connect this to the main 5v input wires.
 
-<img src="photos/f1.jpg" style="height: 300px;"/>
+<img src="photos/f2.jpg" style="height: 300px;"/>
 
 #### Rollers
 
