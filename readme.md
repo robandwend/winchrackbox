@@ -17,6 +17,14 @@ The BOM below however is a full component list for the box and mechanism.
 
 Total cost of building a WRB excluding plastics should be less than $17US (plus any shipping costs).
 
+## Youtube intro video
+
+https://youtu.be/9757P2IB9eM
+
+## Printables
+
+https://www.printables.com/model/897767-winchrack-box
+
 ## BOM 
 
 Wago 5pin x 2
