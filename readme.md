@@ -49,6 +49,12 @@ Wago 5pin x 2
 - Assorted wego style connectors (https://www.aliexpress.com/item/1005007090402568.html)
 - 5V power supply (plugged for your country)
 
+## HOLE VERSION
+
+NOTE: A version of the top hat is available with an additional hex hole in the top (handy if they are all stacked next to each other). 
+
+<img src="photos/tophole.jpg" style="height: 200px;"/>
+
 ## PRINTING
 
 I've printed all parts in both PLA and PETG and haven't had any problems with either.
