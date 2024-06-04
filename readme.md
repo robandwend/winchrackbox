@@ -109,6 +109,10 @@ My suggestion is to build the mechanism onto the right base plate, and get the e
 
 The hexagonal holes in the box frame are filled with the four panels. Alternatively they can be replaced by 3mm thick clear sheeting cut to size (print a panel as a cutting guide). The panel click into place - however you may want to place a bead of CA glue around their edges to strengthen and reduce air flow.
 
+If you have printed the top with a additional hex hole on its top, then the additional top panel will also be needed (or a clear 3mm perspex cut to size). Note that this panel is a very tight fit, and may require the edges trimmed slightly to fit.
+
+### Drive mechanism
+
 The drive mechanism consists of two separate units, the front and the rear. Both have a drive motor, the rear also has the filament movement sensor.
 
 <img src="photos/z1.jpg" style="height: 200px;"/><img src="photos/z2.jpg " style="height: 200px;"/>
